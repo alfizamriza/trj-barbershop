@@ -39,9 +39,9 @@ const SERVICES: Service[] = [
   { idx: "09 / TREATMENT", name: "Smoothing", price: "250K", desc: "Meluruskan rambut agar rapi tahan lama." },
   { idx: "10 / COMBO", name: "TRJ Premium Cut", price: "125K", desc: "Hair Cut, Wash, Scrub, Mask, Ear Cleanser, Vitamin, Styling, Mecoontalling." },
   { idx: "11 / COMBO", name: "TRJ Premium Cut Super", price: "175K", desc: "Hair Cut, Wash, Scrub, Mask, Massage, Ear Cleanser, Vitamin, Eyegel, Styling, Mecoontalling." },
-  { idx: "12 / ADDITIONAL", name: "Leon Cut", price: "30K", desc: "Layanan tambahan potongan Leon." },
-  { idx: "13 / ADDITIONAL", name: "Leon Gentleman", price: "30K", desc: "Layanan tambahan gaya Leon Gentleman." },
-  { idx: "14 / ADDITIONAL", name: "Leon Kids", price: "30K", desc: "Layanan tambahan potongan Leon untuk anak." },
+  { idx: "12 / ADDITIONAL", name: "TRJ Cut", price: "30K", desc: "Layanan tambahan potongan TRJ." },
+  { idx: "13 / ADDITIONAL", name: "TRJ Gentleman", price: "30K", desc: "Layanan tambahan gaya TRJ Gentleman." },
+  { idx: "14 / ADDITIONAL", name: "TRJ Kids", price: "30K", desc: "Layanan tambahan potongan TRJ untuk anak." },
 ];
 
 const WA_NUMBER = "6282372808527";
